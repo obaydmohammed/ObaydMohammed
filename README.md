@@ -3,7 +3,7 @@
 ## Hi there 👋 I'm Obayd Mohammed
 
 🎓 I'm a first-year Business Technology Management student at Toronto Metropolitan University with a strong interest in **data**, **technology**, and **cybersecurity**.  
-💻 I enjoy learning how tech shapes real-world solutions — from analyzing data to building small, user-focused applications.
+💻 I enjoy learning how tech shapes real-world solutions, from analyzing data to building small, user-focused applications.
 
 ---
 
