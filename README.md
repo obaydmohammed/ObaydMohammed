@@ -29,5 +29,5 @@
 ---
 
 ### 📫 Get in Touch
-- 📧 **Email:** obaaydmohammed@gmail.com *   
+- 📧 **Email:** obaaydmohammed@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/obayd-mohammed-454418358/) 
